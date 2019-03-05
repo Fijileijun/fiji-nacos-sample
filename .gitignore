@@ -1,0 +1,14 @@
+.gradle
+.idea/
+.DS_Store
+*.iml
+disconf
+target
+build
+out
+bin
+logs
+*.tar.gz
+gradle
+gradlew
+gradlew.bat

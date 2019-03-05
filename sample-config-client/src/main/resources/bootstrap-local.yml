@@ -1,0 +1,9 @@
+spring:
+  profiles:
+    active: local
+  cloud:
+    nacos:
+      config:
+        prefix: ${spring.application.name}-${spring.profiles.active}
+        file-extension: yaml
+        group: DEFAULT_GROUP

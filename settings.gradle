@@ -1,0 +1,5 @@
+rootProject.name = 'fiji-nacos-sample'
+include 'sample-provider'
+include 'sample-simple-consumer'
+include 'sample-config-client'
+

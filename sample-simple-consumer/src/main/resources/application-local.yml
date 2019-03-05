@@ -1,0 +1,10 @@
+server:
+  port: 7071
+spring:
+  profiles:
+    active: local
+  # nacos discovery server address configuration
+  cloud:
+    nacos:
+      discovery:
+        server-addr: 192.168.1.20:8848

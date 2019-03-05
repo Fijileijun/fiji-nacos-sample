@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: nacos-sample-consumer-application
+  profiles:
+    active: local
+
+

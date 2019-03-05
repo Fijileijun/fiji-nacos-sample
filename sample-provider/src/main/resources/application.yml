@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: nacos-sample-provider-application
+
+
+
